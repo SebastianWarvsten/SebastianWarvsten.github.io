@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7eaded01ee3a26a174b63e9b31ec80f6.js"
+  "/precache-manifest.f1b847128a454d1c4c2ebd57aff0ffc8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "laboration-4"});
